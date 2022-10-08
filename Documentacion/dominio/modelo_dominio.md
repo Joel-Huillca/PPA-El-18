@@ -26,7 +26,7 @@ Class Partida{
     Puntaje obtenido
 }
 
-Class Peooooooooz{
+Class Pez{
     Nombre
     Color
     Tamaño
